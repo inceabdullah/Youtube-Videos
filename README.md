@@ -6,4 +6,4 @@
 # Flask Installation and Run on PC or Laptop
 
 - **Flask file:**
-- **Subtitle:** 
+- **Subtitle:** https://github.com/inceabdullah/Youtube-Videos/blob/master/video.srt
