@@ -1,0 +1,13 @@
+For on the PC or Laptop, installation of Flask is very easy than on the server.
+
+firstly, please make an environment python 3 folder for try. Then, install flask ith the pip command or pip3 command. after installation write the first flask code.
+
+App in the point in the py code file. app = Flask(__name__). it is important for newbie for python.
+
+the last line include like app.run() but if __name__ == "__main__"
+
+@app.route("/"). means: 127.0.0.1/
+@app.route("/index"). means: 127.0.0.1/index
+@app.route("/home"). means: 127.0.0.1/home address. This information is for newbie of hosting things.
+
+You can ask some question whatever you thing reasonable or not.
