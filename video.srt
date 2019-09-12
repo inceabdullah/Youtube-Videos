@@ -1,0 +1,52 @@
+the variable $HOME is root for my laptop
+
+create a virtual environment for python 3 on the home folder
+
+and it is created.
+
+by the source command can be used with python and pip command for just this folder.
+
+let's install flask with the just one line command
+
+it is done
+
+
+and create a python file then edit with nano
+
+the first: import flask from flask
+
+app equals flask name
+
+
+app dot route... slash
+
+
+make a definite function the line below the app route class
+
+and function return should be string like this.
+
+save and...
+
+run the script
+
+with python...
+
+done nothing because we don't call app run like this.
+
+
+and again
+
+
+default port number is 5-0-0-0
+
+let's see
+
+
+you can see.
+
+even we edit the source code. it will be nothing
+
+sh script is running with the first code..
+
+should be restarted to see changes.
+
